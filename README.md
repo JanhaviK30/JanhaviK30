@@ -22,7 +22,7 @@
 - 🎓 First-year **BTech** student passionate about technology and innovation  
 - 🧠 Interested in **AI, Web Development, and Open Source Collaboration**  
 - 🌐 Represented **Spain and India** in **Model United Nations**  
-- 🤖 Participated in **Kalamgiro Futuristic Committee** as an AI delegate  
+- 🤖 Participated in **Kalamgiri Futuristic Committee** as an AI delegate  
 - ⚖️ Working on a mini-project: **Judiciary of India — Guardian of the Constitution**  
 - ✨ Strong believer in learning, building, and sharing
 
