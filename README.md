@@ -1,3 +1,13 @@
+<!-- HEADER ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Hey+there!+I'm+Janhavi+Sharma+%F0%9F%91%8B;First+Year+BTech+Student+%7C+Tech+Explorer+%7C+AI+Enthusiast;Budding+Developer+%7C+MUN+Delegate+%7C+Lifelong+Learner" alt="Welcome" />
+
+<!-- HERO GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/df/55/24/df552454142e5b81b7bdf3f07eea1fe7.gif" width="250" alt="Astronaut floating">
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm Janhavi Sharma</h1>
 <h3 align="center">First-Year BTech Student | Tech Enthusiast | MUN Delegate | Budding Developer</h3>
 
@@ -7,58 +17,68 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🎓 I'm a **first-year BTech student**
-- 🤖 I'm interested in **AI, Web Development, and Open Source**
-- 🏛️ I’ve represented **Spain & India** in MUNs and was an **AI delegate at Kalamgiro**
-- 📚 Currently working on a **mini-project: Judiciary of India**
-- ✨ Eager to contribute to collaborative, impactful tech projects!
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</p>
+- 🎓 First-year **BTech** student passionate about technology and innovation  
+- 🧠 Interested in **AI, Web Development, and Open Source Collaboration**  
+- 🌐 Represented **Spain and India** in **Model United Nations**  
+- 🤖 Participated in **Kalamgiro Futuristic Committee** as an AI delegate  
+- ⚖️ Working on a mini-project: **Judiciary of India — Guardian of the Constitution**  
+- ✨ Strong believer in learning, building, and sharing
 
 ---
 
-### 📊 GitHub Stats
+## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="your stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="streak stats" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode,figma,markdown&perline=7" />
 </p>
 
 ---
 
-### ✨ Fun Projects Coming Soon
-
-- ⚖️ Judiciary of India — A deep dive into the **Constitutional Guardian**
-- 🌐 My Portfolio Website — in the works!
-- 🔮 AI-based mini apps using Python
-
----
-
-### 🤝 Let's Connect!
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/your-instagram/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=janhavik30&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhavik30&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
-<p align="center">Thanks for visiting my profile 🙏 Have a great day!</p>
+---
+
+## 🏆 My Trophy Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=janhavik30&theme=dracula&row=2&column=4&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🎯 My Current Focus
+
+- ⚖️ Exploring **India’s Constitutional Framework** through tech
+- 🌐 Building my first **portfolio website**
+- 🧠 Learning **Python + AI + GitHub** one day at a time
+- 💡 Open to new **tech projects, communities, and hackathons**
+
+---
+
+## 🌟 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/your-instagram/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- FOOTER WAVING ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
