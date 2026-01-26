@@ -9,7 +9,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Janhavi Sharma</h1>
-<h3 align="center">A BTech Student | Tech Enthusiast | MUN Delegate | Budding Developer</h3>
+<h3 align="center">A BTech Student | MACHINE LEARNING RESEARCHER | MUN Delegate | Budding Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Exploring+Code+%F0%9F%92%BB;Loving+Tech+%F0%9F%A7%A0;Learning+Something+New+Everyday!+%F0%9F%8C%9F" alt="Typing SVG" />
