@@ -1,5 +1,5 @@
 <!-- HEADER ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Hey+there!+I'm+Janhavi+Sharma+%F0%9F%91%8B;First+Year+BTech+Student+%7C+Tech+Explorer+%7C+AI+Enthusiast;Budding+Developer+%7C+MUN+Delegate+%7C+Lifelong+Learner" alt="Welcome" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Hey+there!+I'm+Janhavi+Sharma+%F0%9F%91%8B;A BTech+Student+%7C+Tech+Explorer and researcher+%7C+AI+Enthusiast;Budding+Developer+%7C+MUN+Delegate+%7C+Lifelong+Learner" alt="Welcome" />
 
 <!-- HERO GIF -->
 <p align="center">
