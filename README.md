@@ -9,7 +9,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Janhavi Sharma</h1>
-<h3 align="center">First-Year BTech Student | Tech Enthusiast | MUN Delegate | Budding Developer</h3>
+<h3 align="center">A BTech Student | Tech Enthusiast | MUN Delegate | Budding Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Exploring+Code+%F0%9F%92%BB;Loving+Tech+%F0%9F%A7%A0;Learning+Something+New+Everyday!+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -19,11 +19,10 @@
 
 ## 🧠 About Me
 
-- 🎓 First-year **BTech** student passionate about technology and innovation  
-- 🧠 Interested in **AI, Web Development, and Open Source Collaboration**  
+- A Undergraduate CS & AI student with research experience in machine learning for time-series and networked systems.
+-  Co-author of an accepted poster at AstroSat Conference (AC-2026) on ML-based classification of black hole X-ray binary spectral states using RXTE data. 
 - 🌐 Represented **Spain and India** in **Model United Nations**  
-- 🤖 Participated in **Kalamgiri Futuristic Committee** as an AI delegate  
-- ⚖️ Working on a mini-project: **Judiciary of India — Guardian of the Constitution**  
+- Interests include time-series modeling, reinforcement learning, and autonomous decision-making.
 - ✨ Strong believer in learning, building, and sharing
 
 ---
