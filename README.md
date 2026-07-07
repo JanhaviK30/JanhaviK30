@@ -16,15 +16,38 @@
 </p>
 
 ---
+# Hi there, I'm Janhavi 👋
 
+I am a **Computer Science and Artificial Intelligence student** (Class of 2028) based in Delhi, with a strong focus on data analysis and applied machine learning. I am passionate about taking raw, complex data and building workflows that extract meaningful insights and predictive capabilities.
+
+## 🚀 About Me
+
+*   🔭 I am currently working on **Data Analysis and training Machine Learning models** using Python.
+*   🔬 **Research:** I actively explore applied machine learning in fields like astrophysics (working with ISRO AstroSat data) and healthcare, with work accepted at international conferences like ISPPD-14.
+*   💼 **Experience:** I have hands-on experience building foundational ML workflows, tackling heavy data preprocessing, and implementing algorithms like A* pathfinding.
+*   🌱 I’m constantly learning and expanding my expertise in artificial intelligence and deep data exploration.
+*   📫 How to reach me: [Your Email] or connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Core:** Python, C++, SQL
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+**Machine Learning:** Scikit-Learn, SciPy, ML Workflows & Pipelines
+**Concepts:** Data Preprocessing, Predictive Modeling, Pathfinding Algorithms (A*)
+
+## 📊 GitHub Analytics
+
+<!-- These are dynamic stat cards. Replace 'YOUR_USERNAME' with your actual GitHub username to make them work! -->
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+⭐️ *From data preprocessing to model deployment, I'm always looking for the next complex problem to solve.*
 ## 🧠 About Me
-
-- A Undergraduate CS & AI student with research experience in machine learning for time-series and networked systems.
--  Co-author of an accepted poster at AstroSat Conference (AC-2026) on ML-based classification of black hole X-ray binary spectral states using RXTE data. 
-- 🌐 Represented **Spain and India** in **Model United Nations**  
-- Interests include time-series modeling, reinforcement learning, and autonomous decision-making.
-- ✨ Strong believer in learning, building, and sharing
-
+CS & AI Student | Data Analyst | Python 🐍 | Applied ML Researcher (Astrophysics & Healthcare)
 ---
 
 ## ⚙️ Tech Stack & Tools
