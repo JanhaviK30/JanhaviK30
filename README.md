@@ -38,8 +38,8 @@ I am a **Computer Science and Artificial Intelligence student** (Class of 2028) 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janhavik30&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhavik30&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=janhavik30&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="45%"/>
+  <img src="https://streak-stats.demolab.com/?user=janhavik30&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 ## 🏆 My Trophy Cabinet
@@ -53,7 +53,7 @@ I am a **Computer Science and Artificial Intelligence student** (Class of 2028) 
 ## 🌟 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/janhavi-sharma-975684309" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:janhavis1006@gmail.com" target="_blank">
