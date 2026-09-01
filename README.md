@@ -25,7 +25,7 @@ I am a **Computer Science and Artificial Intelligence student** (Class of 2028) 
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages & Core:** Python, C++, SQL  
+**Languages & Core:** Python, SQL , Tableau 
 **Data Analysis & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
 **Concepts:** Data Preprocessing, Predictive Modeling, Pathfinding Algorithms (A*)  
 
