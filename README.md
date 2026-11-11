@@ -35,13 +35,15 @@ I am a **Computer Science and Artificial Intelligence student** (Class of 2028) 
 
 ---
 
+
+
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janhavik30&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="45%"/>
-  <img src="https://streak-stats.demolab.com/?user=janhavik30&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=janhavik30&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="45%" alt="GitHub Stats"/>
+
+  <img src="./profile/streak.svg" width="45%" alt="GitHub Streak"/>
 </p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanhaviK30&theme=dark&count_private=true&v=2)
 
 ## 🏆 My Trophy Cabinet
 
